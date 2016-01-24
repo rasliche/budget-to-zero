@@ -1,0 +1,9 @@
+.sidebar {
+  display: inline-block;
+  width: 100px;
+}
+
+#content {
+  display: inline-block;
+  width: 900px;
+}
